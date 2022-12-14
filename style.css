@@ -1,0 +1,99 @@
+body {  width: 100%;
+        height: 100%;
+        background-color:rgb(74, 189, 143);
+      }
+.block1 {
+      
+           display: flex;
+           align-items: center ;
+           justify-content: space-around; 
+           flex-direction: column;    
+          font-size:  16px;
+          background-color:rgba(124, 133, 129, 0);
+          position: absolute;
+          width: 700;
+          height: 200;
+          left: 200px ;
+          top: 45px ;
+      }
+.block2 {
+          font-size:  16px;
+          background-color:rgb(124, 133, 129);
+          width: 500x;
+          height: 250px;
+          position: absolute;
+          left: 500px ;
+          top: 130px;
+      } 
+.block3 {
+          font-size:  16px;
+          background-color:rgb(124, 133, 129);
+          width: 300px;
+          height: 250px;
+          position: absolute;
+          left: 1000px;
+          top: 130px;
+      } 
+.block4 {
+          font-size:  16px;
+          background-color:rgb(124, 133, 129);
+          width: 150px;
+          height: 250px;
+          position: absolute;
+          left: 620px;
+          top: 400px ;
+      } 
+.block5 {
+          font-size:  16px;
+          background-color:rgb(124, 133, 129);
+          width: 150px;
+          height: 250px;
+          position: absolute;
+          left: 1125px;
+          top: 400px ;
+    }              
+.zero {
+       
+        width: 20px;
+        height: 70px;
+        list-style-type: none;
+        background-color: #67a8f200;  
+        border: none;         
+        color: rgb(255, 255, 255); 
+        padding: 50px 110px; 
+        text-align: center; 
+        text-decoration: none; 
+        display: inline-block; 
+        display:inline-table;
+        font-size: 50x;  
+        margin-bottom: 5rem;
+    }
+.menu { 
+       
+        background-color: #67a8f2;         
+        box-shadow: 0 8px 16px 0  #67a8f2, 0 6px 20px 0 #67a8f2; 
+        margin-bottom: 2rem;
+    }
+.catalog  { 
+            margin-bottom: 2rem;
+            background-color: #ae52e4; 
+            box-shadow: 0 8px 16px 0 #ae52e4, 0 6px 20px 0 #ae52e4; 
+      }
+.contacts { 
+            margin-bottom: 2rem;
+            background-color: #24e95c;
+            box-shadow: 0 8px 16px 0 #24e95c, 0 6px 20px 0 #24e95c; 
+      }
+.history { 
+            margin-bottom: 2rem;
+            background-color: #ceba7ac9;            
+            box-shadow: 0 8px 16px 0 #ceba7ac9, 0 6px 20px 0#ceba7ac9; 
+      }
+.feedback { 
+            background-color: #ef6262;          
+            margin-bottom: 2rem;
+            box-shadow: 0 8px 16px 0 #ef6262, 0 6px 20px 0#ef6262; 
+      }
+
+  
+  
